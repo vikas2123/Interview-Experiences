@@ -1,4 +1,5 @@
 # Interview Experiences
+# Interview Experiences
 
 I applied to various companies for a full-time role (mostly in systems), and here are some of my `On-Campus @ IITD` as
 well as `Off-Campus` Online Assessment (OA) and Interview experiences:
@@ -139,3 +140,7 @@ Topics included:
 - Read-Copy-Update (RCU)  
 - And several open-ended follow-ups  
 
+
+# Preperation Resources
+I made some notes while preparing for these interviews.
+They can be accessed at [this](https://github.com/Shivam5022/Knowledgebase-SV) link.
