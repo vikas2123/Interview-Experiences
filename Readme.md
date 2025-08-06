@@ -143,3 +143,6 @@ Topics included:
 # Preperation Resources
 I made some notes while preparing for these interviews.
 They can be accessed at [this](https://github.com/Shivam5022/Knowledgebase-SV) link.
+
+##result of the interview
+I had qualified.
